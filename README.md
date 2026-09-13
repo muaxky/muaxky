@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=muaxky&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=muaxky&layout=compact&langs_count=4&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=muaxky&layout=compact&langs_count=4&theme=monokai)
